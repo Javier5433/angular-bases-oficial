@@ -1,0 +1,10 @@
+h1 {
+  font-size: 40px;
+}
+dt{
+  font-size:10px;
+}
+dd {
+  font-size: 2rem;
+  font-weight: bold;
+}
